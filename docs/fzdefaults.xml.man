@@ -1,0 +1,29 @@
+.TH fzdefaults.xml 5 "January 2018" "" "TabFTP Manual"
+.SH NAME
+fzdefaults.xml \- Default options for TabFTP
+.SH SYNOPSIS
+.B /etc/tabftp/fzdefaults.xml
+.br
+.B  ~/.tabftp/fzdefaults.xml
+.SH DESCRIPTION
+This configuration file can be used to specify some system\(hywide default options for TabFTP:
+.IP \(bu
+Location of user's settings directory
+.IP \(bu
+Predefined list of Sitemanager entries
+.IP \(bu
+Kiosk mode to prevent TabFTP from saving any passwords
+.IP \(bu
+Disabling of update check capablity
+.P
+Please search for the file
+.B fzdefaults.xml.example
+for further information. It is often found in the /usr/share/tabftp/docs directory.
+.SH SUPPORT
+Please visit the TabFTP project page for further information.
+.SH COPYRIGHT
+Copyright (C) 2004\-2018  Tim Kosse
+.P
+TabFTP is distributed under the terms of the GNU General Public License version 2 or later.
+.SH "SEE ALSO"
+tabftp(1)

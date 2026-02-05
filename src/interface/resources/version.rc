@@ -1,0 +1,29 @@
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,0
+ PRODUCTVERSION 1,0,0,0
+ FILEFLAGSMASK 0x17L
+ FILEFLAGS 0x0L
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "000004b0"
+        BEGIN
+            VALUE "Comments", "Version 1.0.0"
+            VALUE "CompanyName", "TabFTP Project"
+            VALUE "FileDescription", "TabFTP FTP Client"
+            VALUE "FileVersion", "1, 0, 0, 0"
+            VALUE "InternalName", "TabFTP 3"
+            VALUE "LegalCopyright", "Copyright (C) 2006-2025 TabFTP Project. Based on FileZilla."
+            VALUE "OriginalFilename", "filezilla.exe"
+            VALUE "ProductName", "TabFTP"
+            VALUE "ProductVersion", "1, 0, 0, 0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x0, 1200
+    END
+END

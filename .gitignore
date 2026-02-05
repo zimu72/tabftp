@@ -1,0 +1,62 @@
+# Build artifacts
+*.o
+*.lo
+*.la
+*.a
+*.so
+*.so.*
+*.Po
+*.Plo
+*.gch
+*.mo
+*.gmo
+
+# SCons
+.sconsign.dblite
+.sconf_temp
+
+
+
+.deps/
+.libs/
+.dirstamp
+autom4te.cache/
+config.cache
+config.log
+config.status
+config.h
+stamp-h1
+libtool
+Makefile
+!Makefile.am
+!Makefile.in
+
+# Executables
+src/putty/fzsftp
+src/putty/fzputtygen
+src/interface/tabftp
+src/fzshellext/64/libtool
+
+# Temporary files
+*~
+*.swp
+lockfile
+configure~
+
+# Packaging
+.packaging/
+dist/
+squashfs-root/
+filezilla_model/
+*.AppImage
+*.tar.bz2
+*.zip
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# Autotools generated (optional, keep if you want to distribute ready-to-build)
+# configure
+# aclocal.m4
+# Makefile.in

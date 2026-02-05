@@ -1,0 +1,19 @@
+.TH fzsftp 1 "January 2018" "" "TabFTP Manual"
+.SH NAME
+fzsftp \- SFTP connection handler of TabFTP
+.SH DESCRIPTION
+.B fzsftp
+is part of TabFTP. It is used to handle SFTP (SSH File Transfer Protocol) connections. It usually gets called by TabFTP and is not intended to be used directly.
+.P
+.B fzsftp
+is based on the psftp component of PuTTY.
+.SH SUPPORT
+Please visit the TabFTP project page for further information.
+.SH COPYRIGHT
+Copyright (C) 2004\-2018  Tim Kosse
+.br
+Copyright (C) 1997\-2018  Simon Tatham and the PuTTY team
+.P
+TabFTP is distributed under the terms of the GNU General Public License version 2 or later.
+.SH "SEE ALSO"
+tabftp(1)
