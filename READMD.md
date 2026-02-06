@@ -34,4 +34,4 @@ TabFTP Client is a fast, reliable cross-platform FTP, FTPS, and SFTP client feat
 
 > 📌 Note: For complete documentation of original FileZilla features, please refer to the `readme_filezilla` file included in the project distribution.
 
-![image-20260205221021115](./image-20260205221021115.png)
+<img width="1763" height="1243" alt="屏幕截图 2026-02-05 221018" src="https://github.com/user-attachments/assets/e2f456d8-2bc1-4c38-9263-a3aeb3d77ff2" />
