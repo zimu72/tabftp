@@ -34,4 +34,4 @@ TabFTP 客户端是一个快速、可靠的跨平台 FTP、FTPS 和 SFTP 客户�
 
 > 📌 提示：FileZilla 原有功能的完整说明文档请参阅项目中的 `readme_filezilla` 文件。
 
-![image-20260205221021115](./image-20260205221021115.png)
+<img width="2243" height="1094" alt="屏幕截图 2026-02-05 231401" src="https://github.com/user-attachments/assets/ea4a1d89-8694-4bef-bf1c-03862e4bf610" />
